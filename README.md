@@ -79,8 +79,8 @@ Stack: JavaScript, Leaflet, Chart.js, IIIF
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: (add your link)
-- 💻 GitHub: https://github.com/your-username
+- 💼 LinkedIn: [www.linkedin.com/in/rati-gumashvili](https://www.linkedin.com/in/rati-gumashvili/)
+- 💻 GitHub: [https://github.com/ratigumashvili](https://github.com/ratigumashvili)
 
 ---
 
